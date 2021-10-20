@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Abelis\Desktop\VS Projects\Game of Life\main.cpp(179,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Game of Life\main.cpp(179,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game of Life.vcxproj -> C:\Users\Abelis\Desktop\VS Projects\Game of Life\Debug\Game of Life.exe
